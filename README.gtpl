@@ -26,10 +26,7 @@
 
 ### GitHub Stats
 
-<p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Tiag0ss&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="Tiag0ss GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiag0ss&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
-</p>
+<p align="left"><img src="https://raw.githubusercontent.com/Tiag0ss/Tiag0ss/main/github-metrics.svg" alt="Tiag0ss GitHub metrics" /></p>
 
 ### 👷 Check out what I'm currently working on
 {{ range recentContributions 5 }}

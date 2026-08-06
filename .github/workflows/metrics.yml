@@ -1,0 +1,40 @@
+# Visit https://github.com/lowlighter/metrics#-documentation for full reference
+name: Metrics
+
+on:
+  schedule: [{ cron: "0 */3 * * *" }]
+  workflow_dispatch:
+  push: { branches: ["main"] }
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    concurrency:
+      group: metrics-update
+      cancel-in-progress: true
+    steps:
+      - name: Cache dependencies
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache
+          key: ${{ runner.os }}-cache-${{ hashFiles('**/lockfiles') }}
+
+      - uses: lowlighter/metrics@latest
+        with:
+          # Requires a classic PAT in secrets.GH_PAT with at least:
+          #   public_repo (or repo), read:user, read:org
+          token: ${{ secrets.GH_PAT }}
+
+          user: Tiag0ss
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Europe/Lisbon
+
+          plugin_gists: yes
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_traffic: no
+          plugin_habits: no
+          plugin_wakatime: no
