@@ -51,11 +51,8 @@
 
 
 ### ⭐ Recent Stars
-
-- [Tiag0ss/twitch-sticker-album](https://github.com/Tiag0ss/twitch-sticker-album) - 
 - [tradewright/tabcontrol-extra](https://github.com/tradewright/tabcontrol-extra) - An improved TabControl for Windows Forms (.Net)
 - [Bletch1971/ServerManagers](https://github.com/Bletch1971/ServerManagers) - A manager for different steam game servers
-- [ConnectedCaching/csGeoTools](https://github.com/ConnectedCaching/csGeoTools) - 
 
 ### 📫 How to reach me
 
