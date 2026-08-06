@@ -32,31 +32,24 @@
 </p>
 
 ### 👷 Check out what I'm currently working on
-
-- [Tiag0ss/pm-synapse](https://github.com/Tiag0ss/pm-synapse) - Markdown knowledge vaults for Project Management — wikilinks, mindmaps, public wikis, and optional checkbox→task sync via SSO.
-- [Tiag0ss/project-management](https://github.com/Tiag0ss/project-management) - Self-hosted project management with tasks, Gantt planning, time tracking, and team collaboration
-- [Tiag0ss/focus-track](https://github.com/Tiag0ss/focus-track) - Focus and time tracking tooling
-- [Tiag0ss/twitch-sticker-album](https://github.com/Tiag0ss/twitch-sticker-album) - Twitch sticker album
-- [Tiag0ss/portfolio](https://github.com/Tiag0ss/portfolio) - Source code of my portfolio page
+{{ range recentContributions 5 }}
+- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
+{{- end }}
 
 ### 🌱 My latest projects
-
-- [Tiag0ss/pm-synapse](https://github.com/Tiag0ss/pm-synapse) - Markdown knowledge vaults for Project Management — wikilinks, mindmaps, public wikis, and optional checkbox→task sync via SSO.
-- [Tiag0ss/project-management](https://github.com/Tiag0ss/project-management) - Self-hosted project management with tasks, Gantt planning, time tracking, and team collaboration
-- [Tiag0ss/focus-track](https://github.com/Tiag0ss/focus-track) - Focus and time tracking tooling
-- [Tiag0ss/twitch-sticker-album](https://github.com/Tiag0ss/twitch-sticker-album) - Twitch sticker album
-- [Tiag0ss/portfolio](https://github.com/Tiag0ss/portfolio) - Source code of my portfolio page
+{{ range recentRepos 5 }}
+- [{{ .Name }}]({{ .URL }}) - {{ .Description }}
+{{- end }}
 
 ### 🔨 My recent Pull Requests
-
-_No recent public pull requests yet — this section updates automatically._
+{{ range recentPullRequests 5 }}
+- [{{ .Title }}]({{ .URL }}) on [{{ .Repo.Name }}]({{ .Repo.URL }})
+{{- end }}
 
 ### ⭐ Recent Stars
-
-- [Tiag0ss/twitch-sticker-album](https://github.com/Tiag0ss/twitch-sticker-album) - Twitch sticker album
-- [tradewright/tabcontrol-extra](https://github.com/tradewright/tabcontrol-extra) - An improved TabControl for Windows Forms (.Net)
-- [Bletch1971/ServerManagers](https://github.com/Bletch1971/ServerManagers) - A manager for different steam game servers
-- [ConnectedCaching/csGeoTools](https://github.com/ConnectedCaching/csGeoTools)
+{{ range recentStars 5 }}
+- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
+{{- end }}
 
 ### 📫 How to reach me
 
