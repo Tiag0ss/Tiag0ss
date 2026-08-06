@@ -6,12 +6,15 @@ on:
   schedule:
     - cron: "0 0 * * *"
 
+permissions:
+  contents: write
+
 jobs:
   markscribe:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Generate README
         uses: muesli/readme-scribe@master
@@ -22,8 +25,6 @@ jobs:
           writeTo: "README.md"
 
       - name: Commit README
-        uses: stefanzweifel/git-auto-commit-action@v5
-        env:
-          GITHUB_TOKEN: ${{ github.token }}
+        uses: stefanzweifel/git-auto-commit-action@v6
         with:
           commit_message: "markscribe: update README.md"
