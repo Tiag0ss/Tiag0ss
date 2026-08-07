@@ -70,11 +70,11 @@
 
 ### ⭐ Recent Stars
 
+- [Tiag0ss/pm-synapse](https://github.com/Tiag0ss/pm-synapse) - Markdown knowledge vaults for Project Management — wikilinks, mindmaps, public wikis, and optional checkbox→task sync via SSO.
+- [Tiag0ss/project-management](https://github.com/Tiag0ss/project-management) - Self-hosted project management with tasks, Gantt planning, time tracking, and team collaboration
 - [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos) - Archlinux Kernel based on different schedulers and some other performance improvements.
 - [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) - A sleek, customizable desktop shell crafted for Wayland.
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn&#39;t sacrifice on its looks.
-- [tradewright/tabcontrol-extra](https://github.com/tradewright/tabcontrol-extra) - An improved TabControl for Windows Forms (.Net)
-- [Bletch1971/ServerManagers](https://github.com/Bletch1971/ServerManagers) - A manager for different steam game servers
 
 ### 📫 How to reach me
 
