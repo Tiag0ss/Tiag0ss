@@ -51,19 +51,19 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [Tiag0ss/whichkey-nvim-vscode](https://github.com/Tiag0ss/whichkey-nvim-vscode) - 
 - [Tiag0ss/project-management](https://github.com/Tiag0ss/project-management) - Self-hosted project management with tasks, Gantt planning, time tracking, and team collaboration
 - [Tiag0ss/pm-synapse](https://github.com/Tiag0ss/pm-synapse) - Markdown knowledge vaults for Project Management — wikilinks, mindmaps, public wikis, and optional checkbox→task sync via SSO.
 - [Tiag0ss/focus-track](https://github.com/Tiag0ss/focus-track) - Privacy-first focus tracking for Hyprland. SQLite &#43; Tauri, no cloud. RescueTime-style focus tracker for Hyprland — local, lightweight, offline.
 - [Tiag0ss/portfolio](https://github.com/Tiag0ss/portfolio) - Source code of my portofolio page
-- [Tiag0ss/Ophiussa-scrapper](https://github.com/Tiag0ss/Ophiussa-scrapper) - Metacritic API is a provider of compilations on reviews of video games.
 
 ### 🌱 My latest projects
 
+- [Tiag0ss/whichkey-nvim-vscode](https://github.com/Tiag0ss/whichkey-nvim-vscode) - 
 - [Tiag0ss/focus-track](https://github.com/Tiag0ss/focus-track) - Privacy-first focus tracking for Hyprland. SQLite &#43; Tauri, no cloud. RescueTime-style focus tracker for Hyprland — local, lightweight, offline.
 - [Tiag0ss/pm-synapse](https://github.com/Tiag0ss/pm-synapse) - Markdown knowledge vaults for Project Management — wikilinks, mindmaps, public wikis, and optional checkbox→task sync via SSO.
 - [Tiag0ss/portfolio](https://github.com/Tiag0ss/portfolio) - Source code of my portofolio page
 - [Tiag0ss/project-management](https://github.com/Tiag0ss/project-management) - Self-hosted project management with tasks, Gantt planning, time tracking, and team collaboration
-- [Tiag0ss/SpeechAnalyser](https://github.com/Tiag0ss/SpeechAnalyser) - API for sentiment analysis, hate speech detection, emotion analysis, and translation using PyTorch models.
 
 ### 🔨 My recent Pull Requests
 
