@@ -51,10 +51,10 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [Tiag0ss/pm-synapse](https://github.com/Tiag0ss/pm-synapse) - Markdown knowledge vaults for Project Management — wikilinks, mindmaps, public wikis, and optional checkbox→task sync via SSO.
 - [Tiag0ss/OphiussaServerManagerWeb](https://github.com/Tiag0ss/OphiussaServerManagerWeb) - Docker-based game server panel for Linux VPS — templates, monitoring, FTP, mods &amp; backups.
 - [Tiag0ss/project-management](https://github.com/Tiag0ss/project-management) - Self-hosted project management with tasks, Gantt planning, time tracking, and team collaboration
 - [Tiag0ss/whichkey-nvim-vscode](https://github.com/Tiag0ss/whichkey-nvim-vscode) - 
-- [Tiag0ss/pm-synapse](https://github.com/Tiag0ss/pm-synapse) - Markdown knowledge vaults for Project Management — wikilinks, mindmaps, public wikis, and optional checkbox→task sync via SSO.
 - [Tiag0ss/focus-track](https://github.com/Tiag0ss/focus-track) - Privacy-first focus tracking for Hyprland. SQLite &#43; Tauri, no cloud. RescueTime-style focus tracker for Hyprland — local, lightweight, offline.
 
 ### 🌱 My latest projects
