@@ -67,6 +67,8 @@
 
 ### 🔨 My recent Pull Requests
 
+- [Update package configurations and CI workflow](https://github.com/Tiag0ss/project-management/pull/2) on [Tiag0ss/project-management](https://github.com/Tiag0ss/project-management)
+- [V2](https://github.com/Tiag0ss/project-management/pull/1) on [Tiag0ss/project-management](https://github.com/Tiag0ss/project-management)
 
 ### ⭐ Recent Stars
 
