@@ -67,6 +67,8 @@
 
 ### 🔨 My recent Pull Requests
 
+- [Add MIT License to the project](https://github.com/Tiag0ss/OphiussaServerManagerWeb/pull/3) on [Tiag0ss/OphiussaServerManagerWeb](https://github.com/Tiag0ss/OphiussaServerManagerWeb)
+- [Enhance server detail page with backup management, scheduling, and templates](https://github.com/Tiag0ss/OphiussaServerManagerWeb/pull/2) on [Tiag0ss/OphiussaServerManagerWeb](https://github.com/Tiag0ss/OphiussaServerManagerWeb)
 - [Bugfix after tests](https://github.com/Tiag0ss/OphiussaServerManagerWeb/pull/1) on [Tiag0ss/OphiussaServerManagerWeb](https://github.com/Tiag0ss/OphiussaServerManagerWeb)
 - [Update package configurations and CI workflow](https://github.com/Tiag0ss/project-management/pull/2) on [Tiag0ss/project-management](https://github.com/Tiag0ss/project-management)
 - [V2](https://github.com/Tiag0ss/project-management/pull/1) on [Tiag0ss/project-management](https://github.com/Tiag0ss/project-management)
