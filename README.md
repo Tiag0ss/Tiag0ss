@@ -51,9 +51,9 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [Tiag0ss/project-management](https://github.com/Tiag0ss/project-management) - Self-hosted project management with tasks, Gantt planning, time tracking, and team collaboration
+- [Tiag0ss/myelin](https://github.com/Tiag0ss/myelin) - Self-hosted project management with tasks, Gantt planning, time tracking, and team collaboration
+- [Tiag0ss/synapse](https://github.com/Tiag0ss/synapse) - Markdown knowledge vaults for Myelin — wikilinks, mindmaps and public wikis
 - [Tiag0ss/OphiussaServerManagerWeb](https://github.com/Tiag0ss/OphiussaServerManagerWeb) - Docker-based game server panel for Linux VPS — templates, monitoring, FTP, mods &amp; backups.
-- [Tiag0ss/pm-synapse](https://github.com/Tiag0ss/pm-synapse) - Markdown knowledge vaults for Project Management — wikilinks, mindmaps, public wikis, and optional checkbox→task sync via SSO.
 - [Tiag0ss/whichkey-nvim-vscode](https://github.com/Tiag0ss/whichkey-nvim-vscode) - 
 - [Tiag0ss/portfolio](https://github.com/Tiag0ss/portfolio) - Source code of my portofolio page
 
@@ -61,24 +61,24 @@
 
 - [Tiag0ss/OphiussaServerManagerWeb](https://github.com/Tiag0ss/OphiussaServerManagerWeb) - Docker-based game server panel for Linux VPS — templates, monitoring, FTP, mods &amp; backups.
 - [Tiag0ss/whichkey-nvim-vscode](https://github.com/Tiag0ss/whichkey-nvim-vscode) - 
-- [Tiag0ss/pm-synapse](https://github.com/Tiag0ss/pm-synapse) - Markdown knowledge vaults for Project Management — wikilinks, mindmaps, public wikis, and optional checkbox→task sync via SSO.
+- [Tiag0ss/synapse](https://github.com/Tiag0ss/synapse) - Markdown knowledge vaults for Myelin — wikilinks, mindmaps and public wikis
 - [Tiag0ss/portfolio](https://github.com/Tiag0ss/portfolio) - Source code of my portofolio page
-- [Tiag0ss/project-management](https://github.com/Tiag0ss/project-management) - Self-hosted project management with tasks, Gantt planning, time tracking, and team collaboration
+- [Tiag0ss/myelin](https://github.com/Tiag0ss/myelin) - Self-hosted project management with tasks, Gantt planning, time tracking, and team collaboration
 
 ### 🔨 My recent Pull Requests
 
 - [Add MIT License to the project](https://github.com/Tiag0ss/OphiussaServerManagerWeb/pull/3) on [Tiag0ss/OphiussaServerManagerWeb](https://github.com/Tiag0ss/OphiussaServerManagerWeb)
 - [Enhance server detail page with backup management, scheduling, and templates](https://github.com/Tiag0ss/OphiussaServerManagerWeb/pull/2) on [Tiag0ss/OphiussaServerManagerWeb](https://github.com/Tiag0ss/OphiussaServerManagerWeb)
 - [Bugfix after tests](https://github.com/Tiag0ss/OphiussaServerManagerWeb/pull/1) on [Tiag0ss/OphiussaServerManagerWeb](https://github.com/Tiag0ss/OphiussaServerManagerWeb)
-- [Update package configurations and CI workflow](https://github.com/Tiag0ss/project-management/pull/2) on [Tiag0ss/project-management](https://github.com/Tiag0ss/project-management)
-- [V2](https://github.com/Tiag0ss/project-management/pull/1) on [Tiag0ss/project-management](https://github.com/Tiag0ss/project-management)
+- [Update package configurations and CI workflow](https://github.com/Tiag0ss/myelin/pull/2) on [Tiag0ss/myelin](https://github.com/Tiag0ss/myelin)
+- [V2](https://github.com/Tiag0ss/myelin/pull/1) on [Tiag0ss/myelin](https://github.com/Tiag0ss/myelin)
 
 ### ⭐ Recent Stars
 
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla&#39;s Firefox web browser.
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
-- [Tiag0ss/pm-synapse](https://github.com/Tiag0ss/pm-synapse) - Markdown knowledge vaults for Project Management — wikilinks, mindmaps, public wikis, and optional checkbox→task sync via SSO.
-- [Tiag0ss/project-management](https://github.com/Tiag0ss/project-management) - Self-hosted project management with tasks, Gantt planning, time tracking, and team collaboration
+- [Tiag0ss/synapse](https://github.com/Tiag0ss/synapse) - Markdown knowledge vaults for Myelin — wikilinks, mindmaps and public wikis
+- [Tiag0ss/myelin](https://github.com/Tiag0ss/myelin) - Self-hosted project management with tasks, Gantt planning, time tracking, and team collaboration
 - [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos) - Archlinux Kernel based on different schedulers and some other performance improvements.
 
 ### 📫 How to reach me
