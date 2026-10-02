@@ -75,11 +75,11 @@
 
 ### ⭐ Recent Stars
 
+- [huxingyi/dust3d](https://github.com/huxingyi/dust3d) - Dust3D is a cross-platform 3D modeling software that makes it easy to create low poly 3D models for video games, 3D printing, and more.
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla&#39;s Firefox web browser.
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [Tiag0ss/synapse](https://github.com/Tiag0ss/synapse) - Markdown knowledge vaults for Myelin — wikilinks, mindmaps and public wikis
 - [Tiag0ss/myelin](https://github.com/Tiag0ss/myelin) - Self-hosted project management with tasks, Gantt planning, time tracking, and team collaboration
-- [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos) - Archlinux Kernel based on different schedulers and some other performance improvements.
 
 ### 📫 How to reach me
 
