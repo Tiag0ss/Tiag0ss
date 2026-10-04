@@ -51,9 +51,9 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [Tiag0ss/portfolio](https://github.com/Tiag0ss/portfolio) - Source code of my portofolio page
-- [Tiag0ss/synapse](https://github.com/Tiag0ss/synapse) - Markdown knowledge vaults for Myelin — wikilinks, mindmaps and public wikis
 - [Tiag0ss/myelin](https://github.com/Tiag0ss/myelin) - Self-hosted project management with tasks, Gantt planning, time tracking, and team collaboration
+- [Tiag0ss/synapse](https://github.com/Tiag0ss/synapse) - Markdown knowledge vaults for Myelin — wikilinks, mindmaps and public wikis
+- [Tiag0ss/portfolio](https://github.com/Tiag0ss/portfolio) - Source code of my portofolio page
 - [Tiag0ss/OphiussaServerManagerWeb](https://github.com/Tiag0ss/OphiussaServerManagerWeb) - Docker-based game server panel for Linux VPS — templates, monitoring, FTP, mods &amp; backups.
 - [Tiag0ss/whichkey-nvim-vscode](https://github.com/Tiag0ss/whichkey-nvim-vscode) - 
 
