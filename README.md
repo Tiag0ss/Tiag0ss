@@ -51,8 +51,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [Tiag0ss/donkey-arcade](https://github.com/Tiag0ss/donkey-arcade) - 
 - [Tiag0ss/myelin](https://github.com/Tiag0ss/myelin) - Self-hosted project management with tasks, Gantt planning, time tracking, and team collaboration
+- [Tiag0ss/donkey-arcade](https://github.com/Tiag0ss/donkey-arcade) - 
 - [Tiag0ss/sentrydockserver](https://github.com/Tiag0ss/sentrydockserver) - 
 - [Tiag0ss/SentryDockAgent](https://github.com/Tiag0ss/SentryDockAgent) - 
 - [Tiag0ss/whichkey-nvim-vscode](https://github.com/Tiag0ss/whichkey-nvim-vscode) - 
